@@ -1,0 +1,11 @@
+.card>img{
+  width: 100%;
+  height: 400px;
+}
+.card{
+  height: 550px;
+  width: 300px;
+}
+.container{
+  gap: 20px;
+}
